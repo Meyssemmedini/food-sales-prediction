@@ -7,7 +7,7 @@ Author: Meyssem Medini
 - The project addresses the challenge of predicting future food sales for various items at different stores.
 
 ### Data
-- The dataset, sourced from Kaggle [https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view], includes 8523 entries, offering insights into sales patterns.
+- The dataset, sourced from Kaggle [sales_predictions_2023](https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view), includes 8523 entries, offering insights into sales patterns.
 
 ## Methods
 
@@ -94,5 +94,5 @@ Collaboration with Experts:
 Regular Model Audits:
 - Establish a schedule for regular model audits to identify and address potential limitations proactively.
 
-##For Further Information
+## For Further Information
 For any additional questions or inquiries, please contact [medinimeyssem58@gmail.com].
