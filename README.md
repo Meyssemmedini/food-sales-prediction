@@ -32,6 +32,10 @@ Analysis
 ### Visual 1: Total Sales by Item Type
 ![Total Sales (Scaled by 1000) by Item Type](https://github.com/Meyssemmedini/food-sales-predictions/assets/145705523/eff8d76d-f96f-429c-b0c7-fbf9d5dd6032)
 This visualization displays the total sales, scaled by 1000, categorized by different item types. It provides an overview of the distribution of sales across various product categories, offering insights into the relative performance of each item type in the dataset.
+### Visual 2: Average Sales by Outlet Type
+![Average Sales by Outlet Type](https://github.com/Meyssemmedini/food-sales-predictions/assets/145705523/84b9cf0a-bf20-4fff-9654-b36845fd2c78)
+This visualization presents the average sales for each outlet type. By analyzing this information, you can gain insights into the relative performance of different outlet types in terms of sales. The visual representation helps in identifying trends and patterns, facilitating better decision-making for strategic business planning.
+
 
 ## Model Overview:
 
