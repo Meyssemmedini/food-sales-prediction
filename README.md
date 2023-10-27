@@ -1,4 +1,4 @@
-# food-sales-predictions
+# food-sales-prediction
 ## Subtitle: Revealing Trends and Future Patterns in Sales Data
 
 Author: Meyssem Medini
