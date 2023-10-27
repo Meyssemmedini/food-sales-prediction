@@ -29,6 +29,9 @@ Analysis
 - Presented findings, insights, and performance metrics from the machine learning models.
 
 ## Results
+### Visual 1: Total Sales by Item Type
+![Total Sales (Scaled by 1000) by Item Type](https://github.com/Meyssemmedini/food-sales-predictions/assets/145705523/eff8d76d-f96f-429c-b0c7-fbf9d5dd6032)
+This visualization displays the total sales, scaled by 1000, categorized by different item types. It provides an overview of the distribution of sales across various product categories, offering insights into the relative performance of each item type in the dataset.
 
 ## Model Overview:
 
